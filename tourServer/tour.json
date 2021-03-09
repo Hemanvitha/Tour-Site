@@ -1,0 +1,30 @@
+[
+  {
+    "name":"The Purvanchal Range",
+    "place":"Meghalaya",
+    "date":"4-10-19"
+  },
+  
+  {
+    "name":"alleppey",
+    "place":"kerala",
+    "date":"5-10-2019"
+  },
+
+{
+  "name":"Aravalli Range",
+  "place":"Gujurat",
+  "date":"5-20-2019"
+},
+{
+  "name": "Western Ghats",
+  "place": "Kanyakumari",
+  "date":"5-30-2019"
+},
+{
+  "name": "Eastern Ghats",
+  "place": "Bay of Bengal range",
+  "date":"6-10-2019"
+}
+]
+

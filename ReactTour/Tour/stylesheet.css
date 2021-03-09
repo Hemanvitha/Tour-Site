@@ -1,0 +1,24 @@
+table{
+    border: 1px solid black;
+    width: 100%;
+  }
+  
+  thead{
+    background: skyblue;
+    text-align: justify;
+    padding: auto auto auto auto;
+  }
+  
+  td{
+    border: 1px solid black;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr{
+    border: 1px solid black;
+  }
+  .top{
+      text-align: center;
+      background-color:burlywood;
+  }
